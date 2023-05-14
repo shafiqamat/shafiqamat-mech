@@ -9,7 +9,7 @@ blocks:
       all together in `pages/[filename].tsx`, all based on a config
       `tina/config.tsx`.
     actions:
-      - label: Get Started
+      - label: About Me
         type: button
         icon: true
         link: /posts
@@ -56,6 +56,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
