@@ -1,6 +1,9 @@
 ---
 title: Tina Cloud Starter
 blocks:
+  - body: |
+      ![](/uploads/download.jpg)
+    _template: content
   - headline: Welcome to the Tina Starter
     text: >
       This project is set up to show you the basics of working with Tina. You're
@@ -56,6 +59,7 @@ blocks:
     color: primary
     _template: testimonial
 ---
+
 
 
 
