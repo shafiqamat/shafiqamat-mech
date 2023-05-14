@@ -9,7 +9,7 @@
     "color": "default",
     "nav": [
       {
-        "href": "\\John",
+        "href": "/John",
         "label": "bob"
       },
       {
