@@ -9,6 +9,10 @@
     "color": "default",
     "nav": [
       {
+        "href": "/John",
+        "label": "bob"
+      },
+      {
         "href": "",
         "label": "Home"
       },
